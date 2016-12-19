@@ -1,38 +1,5 @@
 EESchema Schematic File Version 2
 LIBS:power
-LIBS:device
-LIBS:transistors
-LIBS:conn
-LIBS:linear
-LIBS:regul
-LIBS:74xx
-LIBS:cmos4000
-LIBS:adc-dac
-LIBS:memory
-LIBS:xilinx
-LIBS:microcontrollers
-LIBS:dsp
-LIBS:microchip
-LIBS:analog_switches
-LIBS:motorola
-LIBS:texas
-LIBS:intel
-LIBS:audio
-LIBS:interface
-LIBS:digital-audio
-LIBS:philips
-LIBS:display
-LIBS:cypress
-LIBS:siliconi
-LIBS:opto
-LIBS:atmel
-LIBS:contrib
-LIBS:valves
-LIBS:ESP8266
-LIBS:logo
-LIBS:poncho_eth
-LIBS:PonchoPLC-cache
-LIBS:Poncho_Esqueleto
 LIBS:DISEÑO_PONCHO_WIFI_PICOCIAA-cache
 EELAYER 25 0
 EELAYER END
@@ -224,9 +191,6 @@ Wire Wire Line
 Wire Wire Line
 	7050 4950 6600 4950
 Connection ~ 6600 4950
-Wire Wire Line
-	7850 4650 7950 4650
-Connection ~ 7850 4650
 Connection ~ 6900 4500
 Connection ~ 6800 4400
 Wire Wire Line
