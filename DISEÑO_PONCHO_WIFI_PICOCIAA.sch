@@ -10,9 +10,9 @@ Title "Poncho Wifi PICO-CIAA"
 Date "2016-11-11"
 Rev "V1.0"
 Comp "FIUBA"
-Comment1 "Diseñado por: Sergio De Jesús"
-Comment2 "Licencias en: LICENCIA_Y_COLABORADORES/LICENSE"
-Comment3 ""
+Comment1 "Revisor: Sebastián López"
+Comment2 "Diseñado por: Sergio De Jesús"
+Comment3 "Licencias en: LICENCIA_Y_COLABORADORES/LICENSE"
 Comment4 ""
 $EndDescr
 $Comp
@@ -188,17 +188,6 @@ F 3 "" H 1000 1200 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Logo_Poncho #G2
-U 1 1 5838FBE9
-P 3750 6900
-F 0 "#G2" H 3700 6500 60  0001 C CNN
-F 1 "Logo_Poncho" H 3950 6500 60  0001 C CNN
-F 2 "" H 3750 6900 60  0000 C CNN
-F 3 "" H 3750 6900 60  0000 C CNN
-	1    3750 6900
-	1    0    0    -1  
-$EndComp
-$Comp
 L OSHWA #G1
 U 1 1 5838FC73
 P 2950 7050
@@ -349,34 +338,34 @@ $EndComp
 $Comp
 L FIDUCIAL FID1
 U 1 1 585874B1
-P 4500 7050
-F 0 "FID1" H 4500 7175 60  0000 C CNN
-F 1 "FIDUCIAL" H 4500 6925 60  0000 C CNN
-F 2 "Poncho_wifi:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop" H 4500 7050 60  0001 C CNN
-F 3 "" H 4500 7050 60  0000 C CNN
-	1    4500 7050
+P 3700 7100
+F 0 "FID1" H 3700 7225 60  0000 C CNN
+F 1 "FIDUCIAL" H 3700 6975 60  0000 C CNN
+F 2 "Poncho_wifi:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop" H 3700 7100 60  0001 C CNN
+F 3 "" H 3700 7100 60  0000 C CNN
+	1    3700 7100
 	1    0    0    -1  
 $EndComp
 $Comp
 L FIDUCIAL FID2
 U 1 1 58587594
-P 4950 7050
-F 0 "FID2" H 4950 7175 60  0000 C CNN
-F 1 "FIDUCIAL" H 4950 6925 60  0000 C CNN
-F 2 "Poncho_wifi:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop" H 4950 7050 60  0001 C CNN
-F 3 "" H 4950 7050 60  0000 C CNN
-	1    4950 7050
+P 4150 7100
+F 0 "FID2" H 4150 7225 60  0000 C CNN
+F 1 "FIDUCIAL" H 4150 6975 60  0000 C CNN
+F 2 "Poncho_wifi:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop" H 4150 7100 60  0001 C CNN
+F 3 "" H 4150 7100 60  0000 C CNN
+	1    4150 7100
 	1    0    0    -1  
 $EndComp
 $Comp
 L FIDUCIAL FID3
 U 1 1 58587609
-P 5400 7050
-F 0 "FID3" H 5400 7175 60  0000 C CNN
-F 1 "FIDUCIAL" H 5400 6925 60  0000 C CNN
-F 2 "Poncho_wifi:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop" H 5400 7050 60  0001 C CNN
-F 3 "" H 5400 7050 60  0000 C CNN
-	1    5400 7050
+P 4600 7100
+F 0 "FID3" H 4600 7225 60  0000 C CNN
+F 1 "FIDUCIAL" H 4600 6975 60  0000 C CNN
+F 2 "Poncho_wifi:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop" H 4600 7100 60  0001 C CNN
+F 3 "" H 4600 7100 60  0000 C CNN
+	1    4600 7100
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
