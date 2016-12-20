@@ -1,0 +1,17 @@
+Cambios realizados al Poncho wifi
+=====================================
+
+* Fecha: 11/11/2016
+* Autores: Sergio De Jesús
+* Archivos: Consideraciones iniciales, hojas de datos, licencia, planilla picociaa y esquemático.
+* Descripción: Se inicializa el proyecto y se carga al servidor de git.
+
+* Fecha: 14/12/2016
+* Autores: Sergio De Jesús
+* Archivos: Esquemático, componente conector picociaa, pcb.
+* Descripción: Se introducen comentarios, se genera primera pcb y se envía para revisión
+
+* Fecha: 19/12/2016
+* Autores: Sergio De Jesús
+* Archivos: Esquemático, pcb.
+* Descripción: Se introducen comentarios, se rutea, se limpia el proyecto y se envía para revisión

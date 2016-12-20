@@ -1,4 +1,4 @@
-update=lun 19 dic 2016 14:30:56 ART
+update=lun 19 dic 2016 20:57:12 ART
 version=1
 last_client=kicad
 [pcbnew]
@@ -28,3 +28,5 @@ version=1
 [eeschema]
 version=1
 LibDir=../tpfinal/Repos_tpfinal/pico/components;/home/sergio/Documentos/Especialización/5to_Bimestre/Diseno_de_PCB/tpfinal/Repos_tpfinal/Ponchos/ethernet_LAN8720A_v2/lib;/home/sergio/Documentos/Especialización/5to_Bimestre/Diseno_de_PCB/tpfinal/Repos_tpfinal/Ponchos/Poncho PLC;/home/sergio/Documentos/Especialización/5to_Bimestre/Diseno_de_PCB/tpfinal/Repos_tpfinal/Ponchos/kicad/libPonchos
+[eeschema/libraries]
+LibName1=poncho_eth
