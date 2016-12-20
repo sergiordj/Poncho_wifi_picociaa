@@ -1,5 +1,5 @@
 EESchema Schematic File Version 2
-LIBS:poncho_eth
+LIBS:power
 LIBS:DISEÑO_PONCHO_WIFI_PICOCIAA-cache
 EELAYER 25 0
 EELAYER END
