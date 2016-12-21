@@ -1,0 +1,6 @@
+1.-Los pines 19 y 20 del ESP-12E están conectados al puerto I2C1 de la PicoCIAA, el cual ya dispone de resistencias de pull-up. Por esta razón no se agregarán resistencias de pull-up en el poncho
+
+2.-Los pines 9 a 14 del ESP-12E tanto en el dispositivo como en el footprint serán eliminados ya que, según el fabricante, están reservados para el bus SPI de la flash interna y no deben ser utilizados.
+
+3.-No se implementa vista 3D de los conectores con la finalidad de admitir conectores maho o hembra según el modelo de PicoCIAA que se esté utilizando.
+

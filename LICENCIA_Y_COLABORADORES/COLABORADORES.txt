@@ -14,4 +14,9 @@ Cambios realizados al Poncho wifi
 * Fecha: 19/12/2016
 * Autores: Sergio De Jesús
 * Archivos: Esquemático, pcb.
-* Descripción: Se introducen comentarios, se rutea, se limpia el proyecto y se envía para revisión
+* Descripción: Se introducen comentarios de DB, se rutea, se limpia el proyecto y se envía para revisión
+
+* Fecha: 21/12/2016
+* Autores: Sergio De Jesús
+* Archivos: Esquemático, pcb.
+* Descripción: Se introducen comentarios de SL, se limpia el proyecto y se envía para revisión.
